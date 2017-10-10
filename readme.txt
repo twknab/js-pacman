@@ -1,1 +1,0 @@
-This is a rendition of PacMan using only HTML5, CSS3 and Javascript. 
