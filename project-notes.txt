@@ -1,0 +1,45 @@
+			##########################
+			#						 #
+			#  PACMAN PROJECT NOTES	 #
+			#						 #
+			##########################
+
+
+################
+#
+# JAVASCRIPT ADDITIONS
+#
+################
+
+\n -  creates a new line in the code
+\t -  creates a 'tab' in the code
+
+
+################
+#
+# DEVELOPER CONSOLE COMMANDS
+#
+################
+
+console.dir[document]
+// shows the document properties that can be referenced
+// ie, 'onkeypress' or 'onkeydown'
+
+
+################
+#
+# GENERAL NOTES
+#
+################
+
+Always do a CSS reset so that all browers handle it the same.
+
+Start by designing out the HTML and CSS first, and add the javascript after.
+
+Work on one function at a time and get it right.
+
+Add another function, once you've got one figured out.
+
+Don't get frustrated, sometimes it may take weeks or months to see your result.
+
+Be resourceful, use developer forums and tools online to facilitate your learning and to ask questions to larger communities, whom might be able to give you insight.
